@@ -1,0 +1,1 @@
+apikey='put your openai api key here'
